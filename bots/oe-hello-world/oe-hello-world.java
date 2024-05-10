@@ -15,4 +15,11 @@ public class OE-Hello-World extends Bot {
     public static void main(String[] args) {
         new OE-Hello-World().start();
     }
+
+
+    // Constructor, which loads the bot config file
+    OE-Hello-World() {
+        super(BotInfo.fromFile("oe-hello-world.json"));
+    }
+    
 }
