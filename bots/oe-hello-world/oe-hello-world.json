@@ -1,0 +1,10 @@
+{
+    "name": "oe-hello-world",
+    "version": "1.0",
+    "authors": [ "Keith D'Atrio" ],
+    "description": "My Hello World Bot",
+    "homepage": "http://www.over-engineeredhobbies.com",
+    "countryCodes": [ "us" ],
+    "platform": "Java",
+    "programmingLang": "Java"
+}
