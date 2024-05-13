@@ -20,7 +20,7 @@ obj/
 generated/
 
 *.iml
-
+**/.DS_Store
 /games.properties
 /server.properties
 /config.properties
